@@ -57,7 +57,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandyglb27&" alt="sandyglb27" /></p>
 
 <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=harikanani&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=sandyglb27&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
 
 ### Spotify Playing 🎧
 
