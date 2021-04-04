@@ -15,7 +15,7 @@
 
 <p align="left"> 
 <a href="https://twitter.com/sandy27k" target="blank"><img src="https://img.shields.io/twitter/follow/sandy27k?logo=twitter&style=for-the-badge" alt="sandy27k" /></a>
-<a href="https://www.linkedin.com/in/sandeep-sharan-6075a9185/"><img src="https://img.shields.io/badge/-sandeep-sharan-6075a9185/-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sandeep-sharan-6075a9185/"><img src="https://img.shields.io/badge/-sandeep%20sharan-6075a9185/?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <hr><img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
