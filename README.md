@@ -1,8 +1,7 @@
-<h2> Hello, this is Sandy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"></h1>
- <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="320">
-
-<h1 align="center">Hi 👋, I'm Sandeep Sharan</h1>
-<h3 align="center">I love exploring new Technology and a passionate Web Developer.</h3>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Sandeep Sharan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyglb27&label=Profile%20views&color=0e75b6&style=flat" alt="sandyglb27" /> </p>
 
