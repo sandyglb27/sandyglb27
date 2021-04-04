@@ -1,3 +1,6 @@
+<h2> Hello, this is Sandy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"></h1>
+ <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="420" height="320">
+
 <h1 align="center">Hi 👋, I'm Sandeep Sharan</h1>
 <h3 align="center">I love exploring new Technology and a passionate Web Developer.</h3>
 
