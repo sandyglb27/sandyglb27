@@ -59,10 +59,5 @@
 <h3> ⚙️  GitHub Analytics </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=sandyglb27&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="sirilalithaadapa Spotify Playing" width="350" autoplay />](https://open.spotify.com/track/0RGp4KA9wvndxqPIWoKwnD)
-
-
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{sandyglb27}/count.svg)
