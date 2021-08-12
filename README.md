@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sandyglb27/](https://github.com/sandyglb27/)
 
-- 💬 Ask me about **Python,JavaScript,Node.Js**
+- 💬 Ask me about **Reactjs,JavaScript,Node.Js**
 
 - 📫 How to reach me **sandeepsharan15@gmail.com**
 
