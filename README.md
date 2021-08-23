@@ -14,7 +14,7 @@
 
 
 <p align="left"> 
-<a href="https://twitter.com/Sandy_glb" target="blank"><img src="https://img.shields.io/twitter/follow/sandy27k?logo=twitter&style=for-the-badge" alt="Sandy_glb" /></a>
+<a href="https://twitter.com/Sandy_glb" target="blank"><img src="https://img.shields.io/twitter/follow/Sandy_glb?logo=twitter&style=for-the-badge" alt="Sandy_glb" /></a>
 <a href="https://www.linkedin.com/in/sandeep-sharan-6075a9185/"><img src="https://img.shields.io/badge/-sandeep%20sharan-6075a9185/?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
 
